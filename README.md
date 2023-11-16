@@ -9,7 +9,6 @@ View and manage user information.
 Manage user orders and payments.
 Manage Paintings and pricing of each painting.
 
-
 User Portal
 In the User Portal, users can:
 
